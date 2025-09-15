@@ -91,12 +91,4 @@ gcc voting_system.c -o voting
 * 📈 Helps reinforce real-world C programming with a practical use case
 
 
-## 🤝 Connect
 
-📬 **Share your story** ([work.ganeshpawar03@gmail.com](mailto:work.ganeshpawar03@gmail.com)) if you're using this repo for your mini or course project. I’d love to know how this project helped you!
-
-
-You Can Connect with on: 
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ganesh-pawar143)
-💻 [GitHub](https://github.com/ganesh-1433)
